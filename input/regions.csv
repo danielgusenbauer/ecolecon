@@ -1,0 +1,193 @@
+country_code,iso3c,country_name,region_code,region
+1,ARM,Armenia,11,Former USSR
+2,AFG,Afghanistan,13,South Asia
+3,ALB,Albania,10,Eastern Europe
+4,DZA,Algeria,5,Northern Africa
+7,AGO,Angola,8,Southern Africa
+8,ATG,Antigua and Barbuda,3,Central America
+9,ARG,Argentina,4,South America
+10,AUS,Australia,16,Oceania
+11,AUT,Austria,9,OECD Europe
+12,BHS,Bahamas,3,Central America
+13,BHR,Bahrain,12,Middle East
+14,BRB,Barbados,3,Central America
+15,BLX,Belgium-Luxembourg,9,OECD Europe
+16,BGD,Bangladesh,13,South Asia
+19,BOL,Bolivia (Plurinational State of),4,South America
+20,BWA,Botswana,8,Southern Africa
+21,BRA,Brazil,4,South America
+23,BLZ,Belize,3,Central America
+25,SLB,Solomon Islands,16,Oceania
+26,BRN,Brunei Darussalam,15,South East Asia
+27,BGR,Bulgaria,10,Eastern Europe
+28,MMR,Myanmar,15,South East Asia
+29,BDI,Burundi,7,Eastern Africa
+32,CMR,Cameroon,6,Western Africa
+33,CAN,Canada,1,Canada
+35,CPV,Cabo Verde,6,Western Africa
+37,CAF,Central African Republic,6,Western Africa
+38,LKA,Sri Lanka,13,South Asia
+39,TCD,Chad,6,Western Africa
+40,CHL,Chile,4,South America
+41,CHN,"China, mainland",14,East Asia
+44,COL,Colombia,4,South America
+46,COG,Congo,6,Western Africa
+48,CRI,Costa Rica,3,Central America
+49,CUB,Cuba,3,Central America
+50,CYP,Cyprus,12,Middle East
+51,CSK,Czechoslovakia,9,OECD Europe
+52,AZE,Azerbaijan,11,Former USSR
+53,BEN,Benin,6,Western Africa
+54,DNK,Denmark,9,OECD Europe
+55,DMA,Dominica,3,Central America
+56,DOM,Dominican Republic,3,Central America
+57,BLR,Belarus,11,Former USSR
+58,ECU,Ecuador,4,South America
+59,EGY,Egypt,5,Northern Africa
+60,SLV,El Salvador,3,Central America
+63,EST,Estonia,11,Former USSR
+66,FJI,Fiji,16,Oceania
+67,FIN,Finland,9,OECD Europe
+68,FRA,France,9,OECD Europe
+70,PYF,French Polynesia,16,Oceania
+72,DJI,Djibouti,7,Eastern Africa
+73,GEO,Georgia,11,Former USSR
+74,GAB,Gabon,6,Western Africa
+75,GMB,Gambia,6,Western Africa
+79,DEU,Germany,9,OECD Europe
+80,BIH,Bosnia and Herzegovina,10,Eastern Europe
+81,GHA,Ghana,6,Western Africa
+83,KIR,Kiribati,16,Oceania
+84,GRC,Greece,9,OECD Europe
+86,GRD,Grenada,3,Central America
+89,GTM,Guatemala,3,Central America
+90,GIN,Guinea,6,Western Africa
+91,GUY,Guyana,4,South America
+93,HTI,Haiti,3,Central America
+95,HND,Honduras,3,Central America
+96,HKG,"China, Hong Kong SAR",14,East Asia
+97,HUN,Hungary,10,Eastern Europe
+98,HRV,Croatia,10,Eastern Europe
+99,ISL,Iceland,9,OECD Europe
+100,IND,India,13,South Asia
+101,IDN,Indonesia,15,South East Asia
+102,IRN,Iran (Islamic Republic of),12,Middle East
+103,IRQ,Iraq,12,Middle East
+104,IRL,Ireland,9,OECD Europe
+105,ISR,Israel,12,Middle East
+106,ITA,Italy,9,OECD Europe
+107,CIV,Côte d'Ivoire,6,Western Africa
+108,KAZ,Kazakhstan,11,Former USSR
+109,JAM,Jamaica,3,Central America
+110,JPN,Japan,17,Japan
+112,JOR,Jordan,12,Middle East
+113,KGZ,Kyrgyzstan,11,Former USSR
+114,KEN,Kenya,7,Eastern Africa
+115,KHM,Cambodia,15,South East Asia
+116,PRK,Democratic People's Republic of Korea,14,East Asia
+117,KOR,Republic of Korea,14,East Asia
+118,KWT,Kuwait,12,Middle East
+119,LVA,Latvia,11,Former USSR
+120,LAO,Lao People's Democratic Republic,15,South East Asia
+121,LBN,Lebanon,12,Middle East
+122,LSO,Lesotho,8,Southern Africa
+123,LBR,Liberia,6,Western Africa
+124,LBY,Libya,5,Northern Africa
+126,LTU,Lithuania,11,Former USSR
+128,MAC,"China, Macao SAR",14,East Asia
+129,MDG,Madagascar,7,Eastern Africa
+130,MWI,Malawi,8,Southern Africa
+131,MYS,Malaysia,15,South East Asia
+132,MDV,Maldives,13,South Asia
+133,MLI,Mali,6,Western Africa
+134,MLT,Malta,9,OECD Europe
+136,MRT,Mauritania,6,Western Africa
+137,MUS,Mauritius,7,Eastern Africa
+138,MEX,Mexico,3,Central America
+141,MNG,Mongolia,14,East Asia
+143,MAR,Morocco,5,Northern Africa
+144,MOZ,Mozambique,8,Southern Africa
+146,MDA,Republic of Moldova,11,Former USSR
+147,NAM,Namibia,8,Southern Africa
+149,NPL,Nepal,13,South Asia
+150,NLD,Netherlands,9,OECD Europe
+151,ANT,Netherlands Antilles,3,Central America
+153,NCL,New Caledonia,16,Oceania
+154,MKD,North Macedonia,10,Eastern Europe
+155,VUT,Vanuatu,16,Oceania
+156,NZL,New Zealand,16,Oceania
+157,NIC,Nicaragua,3,Central America
+158,NER,Niger,6,Western Africa
+159,NGA,Nigeria,6,Western Africa
+162,NOR,Norway,9,OECD Europe
+165,PAK,Pakistan,13,South Asia
+166,PAN,Panama,3,Central America
+167,CZE,Czech Republic,10,Eastern Europe
+168,PNG,Papua New Guinea,16,Oceania
+169,PRY,Paraguay,4,South America
+170,PER,Peru,4,South America
+171,PHL,Philippines,15,South East Asia
+173,POL,Poland,10,Eastern Europe
+174,PRT,Portugal,9,OECD Europe
+175,GNB,Guinea-Bissau,6,Western Africa
+176,TLS,Timor-Leste,15,South East Asia
+177,PRI,Puerto Rico,3,Central America
+178,ERI,Eritrea,7,Eastern Africa
+179,QAT,Qatar,12,Middle East
+181,ZWE,Zimbabwe,8,Southern Africa
+183,ROU,Romania,10,Eastern Europe
+184,RWA,Rwanda,7,Eastern Africa
+185,RUS,Russian Federation,11,Former USSR
+186,SCG,Serbia and Montenegro,9,OECD Europe
+188,KNA,Saint Kitts and Nevis,3,Central America
+189,LCA,Saint Lucia,3,Central America
+191,VCT,Saint Vincent and the Grenadines,3,Central America
+193,STP,Sao Tome and Principe,6,Western Africa
+194,SAU,Saudi Arabia,12,Middle East
+195,SEN,Senegal,6,Western Africa
+197,SLE,Sierra Leone,6,Western Africa
+198,SVN,Slovenia,10,Eastern Europe
+199,SVK,Slovakia,10,Eastern Europe
+200,SGP,Singapore,15,South East Asia
+201,SOM,Somalia,7,Eastern Africa
+202,ZAF,South Africa,8,Southern Africa
+203,ESP,Spain,9,OECD Europe
+207,SUR,Suriname,4,South America
+208,TJK,Tajikistan,11,Former USSR
+209,SWZ,Eswatini,8,Southern Africa
+210,SWE,Sweden,9,OECD Europe
+211,CHE,Switzerland,9,OECD Europe
+212,SYR,Syrian Arab Republic,12,Middle East
+213,TKM,Turkmenistan,11,Former USSR
+214,TWN,"China, Taiwan Province of",14,East Asia
+215,TZA,United Republic of Tanzania,8,Southern Africa
+216,THA,Thailand,15,South East Asia
+217,TGO,Togo,6,Western Africa
+220,TTO,Trinidad and Tobago,3,Central America
+221,OMN,Oman,12,Middle East
+222,TUN,Tunisia,5,Northern Africa
+223,TUR,Turkey,12,Middle East
+225,ARE,United Arab Emirates,12,Middle East
+226,UGA,Uganda,7,Eastern Africa
+228,SUN,USSR,11,Former USSR
+229,GBR,United Kingdom,9,OECD Europe
+230,UKR,Ukraine,11,Former USSR
+231,USA,United States of America,2,USA
+233,BFA,Burkina Faso,6,Western Africa
+234,URY,Uruguay,4,South America
+235,UZB,Uzbekistan,11,Former USSR
+236,VEN,Venezuela (Bolivarian Republic of),4,South America
+237,VNM,Viet Nam,15,South East Asia
+238,ETH,Ethiopia,7,Eastern Africa
+244,WSM,Samoa,16,Oceania
+248,YUG,Yugoslav SFR,10,Eastern Europe
+249,YEM,Yemen,12,Middle East
+250,COD,Democratic Republic of the Congo,6,Western Africa
+251,ZMB,Zambia,8,Southern Africa
+255,BEL,Belgium,9,OECD Europe
+256,LUX,Luxembourg,9,OECD Europe
+272,SRB,Serbia,9,OECD Europe
+273,MNE,Montenegro,9,OECD Europe
+276,SDN,Sudan,7,Eastern Africa
+277,SSD,South Sudan,7,Eastern Africa
+999,ROW,RoW,,
